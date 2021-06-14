@@ -10,6 +10,6 @@ Input data: /input data/mortality_data_clean.csv
 Jupyter Notebook: mort_cs.ipynb
 
 ## Case Study: De-risking activity prediction using Form 5500 data
-Input data: /input data/.csv
+Input data: /input data/derisking_clean_data.zip  It needs to be unzipped to csv file first
 
-Jupyter Notebook: form_5500_cs.ipynb
+Jupyter Notebook: derisking_cs.ipynb
