@@ -6,8 +6,10 @@ This repository contains examples of predictive analytics applied to the retirem
 
 ## Case Study: Relative mortality prediction at U.S. county level
 Input data: /input data/mortality_data_clean.csv
+
 Jupyter Notebook: mort_cs.ipynb
 
 ## Case Study: De-risking activity prediction using Form 5500 data
 Input data: /input data/.csv
+
 Jupyter Notebook: form_5500_cs.ipynb
