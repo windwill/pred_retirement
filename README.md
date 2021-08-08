@@ -1,3 +1,5 @@
+This repository will be retired and moved to the official SOA repository: https://github.com/society-of-actuaries/Predictive-Analytics-for-Retirement
+
 # pred_retirement
 predictive analytics for retirement and pension
 
